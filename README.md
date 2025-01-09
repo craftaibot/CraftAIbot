@@ -1,6 +1,6 @@
 # @craftaiagent_bot
 
-**Telegram Custom AI Agent Launching Bot for Craft AI**  
+**Telegram Custom AI Agent Launching Bot by CraftAI**  
 
 ![CraftAIbot](CRAFT.png)
 
